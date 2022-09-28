@@ -488,6 +488,7 @@ img {
 .project__img{
     width:232px;
     justify-self: center;
+    border-radius: .5rem;
 }
 
 /*==================== TESTIMONIAL ====================*/
