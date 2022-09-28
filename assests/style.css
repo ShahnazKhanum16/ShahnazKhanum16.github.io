@@ -434,7 +434,7 @@ img {
     font-size: 1.8rem;
     margin-right: var(--mb-0-25);
 }
-.qualification__data{
+.qualification__section{
     display: flex;
     justify-content: center;
     align-items: center;
