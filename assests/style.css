@@ -413,8 +413,7 @@ img {
     transform: rotate(-180deg);
 }
 /*==================== QUALIFICATION ====================*/
-.qualification__container,
-.qualification__section{
+.qualification__container{
     margin-left: auto;
     margin-right: auto;
 }
@@ -443,11 +442,17 @@ img {
 .qualification__title{
     font-size: var(--normal-font-size);
     font-weight: var(--font-medium);
+    margin-left: auto;
+    margin-right: auto;
 }
+
 .qualification__subtitle{
     font-size: var(--small-font-size);
     margin-bottom: var(--mb-1);
+    margin-left: auto;
+    margin-right: auto;
 }
+
 /*==================== SERVICES ====================*/
 
 
