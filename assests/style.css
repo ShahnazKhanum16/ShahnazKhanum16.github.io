@@ -823,7 +823,7 @@ img {
     }
     .contact__form{
         width: 460px;
-        position: relative;
+        position: absolute;
         justify-content: center;
         text-align: center;
 
