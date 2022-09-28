@@ -450,10 +450,10 @@ img {
     margin-bottom: var(--mb-1);
     
 }
-.forcenter{
+.qualification__section{
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
 }
 
 
