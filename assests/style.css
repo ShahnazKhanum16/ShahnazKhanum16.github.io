@@ -808,8 +808,9 @@ img {
     }
 }
 /* For large devices */
-@media screen and (min-width:1024px){
+@media screen and (min-width:1030px){
     .header,
+    .container,
     .main,
     .footer__container{
         padding: 0;
@@ -822,6 +823,10 @@ img {
     }
     .contact__form{
         width: 460px;
+        position: relative;
+        justify-content: center;
+        text-align: center;
+
     }
     .contact__inputs{
         grid-template-columns: repeat(2,1fr);
