@@ -413,7 +413,8 @@ img {
     transform: rotate(-180deg);
 }
 /*==================== QUALIFICATION ====================*/
-.qualification__container{
+.qualification__container,
+.qualification__section{
     margin-left: auto;
     margin-right: auto;
 }
