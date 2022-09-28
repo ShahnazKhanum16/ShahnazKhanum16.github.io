@@ -442,15 +442,18 @@ img {
 .qualification__title{
     font-size: var(--normal-font-size);
     font-weight: var(--font-medium);
-    display: flex;
-    text-align: center;
+    
 }
 
 .qualification__subtitle{
     font-size: var(--small-font-size);
     margin-bottom: var(--mb-1);
+    
+}
+.forcenter{
     display: flex;
-    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
 
