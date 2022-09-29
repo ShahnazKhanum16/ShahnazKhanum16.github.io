@@ -817,20 +817,25 @@ img {
 /* For large devices */
 @media screen and (min-width:1030px){
     .header,
-    .container,
     .main,
     .footer__container{
         padding: 0;
     }
+    .container{
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: auto;
     .home__blob{
         width: 320px;
     }
     .home__social{
         transform:translateX(-6rem);
     }
-    .contact__form{
+    .form{
+        
+        position: relative;
+        display: inline-block;
         width: 460px;
-        position: absolute;
         justify-content: center;
         text-align: center;
 
