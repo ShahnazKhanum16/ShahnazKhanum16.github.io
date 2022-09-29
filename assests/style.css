@@ -710,6 +710,11 @@ img {
     body{
         margin:0;
     }
+    .skills__title{
+        display: flex;
+        justify-content: end;
+        margin-right: 5rem;
+    }
     .section{
         padding:6rem 0 2rem;
     }
@@ -739,6 +744,9 @@ img {
     .nav__close,
     .nav__toggle{
         display:none;
+    }
+    .nav__icon{
+        margin-top: 2rem;
     }
     .nav__list{
         display: flex;
@@ -842,14 +850,16 @@ img {
     }
     .form{
         
-        position: relative;
-        display: inline-block;
-        width: 460px;
-        justify-content: center;
-        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
 
     }
     .contact__inputs{
         grid-template-columns: repeat(2,1fr);
+    }
+    .skills__list{
+        display: inline-block;
+        justify-content: flex-end;
+        margin-left: 5rem;
     }
 }
