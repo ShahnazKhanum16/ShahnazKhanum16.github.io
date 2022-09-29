@@ -701,6 +701,7 @@ img {
     .container{
         margin-left: auto;
         margin-right: auto;
+        margin-top: auto;
 
     }
     body{
@@ -715,6 +716,12 @@ img {
     .header{
         top:0;
         bottom:initial;
+    }
+    .form{
+        justify-content: center;
+        position: relative;
+        text-align: center;
+        display: inline-block;
     }
     .header,
     .main,
