@@ -548,7 +548,7 @@ img {
     font-size:var(--smaller-font-size);
     color: var(--title-color);
 }
-.contact__input{
+.contact__inputs{
     width: 100%;
     background-color: var(--input-color);
     color:var(--text-color);
