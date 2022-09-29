@@ -725,7 +725,7 @@ img {
     }
     .form{
         justify-content: center;
-        position: absolute;
+        position: relative;
         text-align: center;
         display: inline-block;
     }
@@ -846,8 +846,6 @@ img {
     .home__social{
         transform:translateX(-6rem);
     }
-
-    
     .contact__inputs{
         grid-template-columns: repeat(2,1fr);
     }
@@ -858,9 +856,4 @@ img {
         display: inline-block;
     }
     
-    .skills__list{
-        display: inline-block;
-        justify-content: flex-end;
-        margin-left: 5rem;
-    }
 }
