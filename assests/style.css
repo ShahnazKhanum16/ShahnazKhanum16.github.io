@@ -488,7 +488,7 @@ img {
     font-size: var(--small-font-size);
     margin-bottom: var(--mb-1);
 }
-.qualification__calender{
+.qualification__calendar{
     font-size: var(--smaller-font-size);
     color: var(--text-color-light);
 }
