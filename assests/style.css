@@ -506,10 +506,10 @@ img {
     background-color: var(--first-color);
     transform: translate(6px ,-7px);
 }
-.qualifiaction[data-content]{
+.qualification[data-content]{
     display: none;
 }
-.qualifiaction__active[data-content]{
+.qualification__active[data-content]{
     display: block;
 }
 /*==================== SERVICES ====================*/
