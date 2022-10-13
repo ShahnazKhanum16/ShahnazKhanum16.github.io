@@ -682,7 +682,7 @@ img {
     margin-bottom:var(--mb-1-5);
 }
 .project__title,
-.portfolio__description{
+.project__description{
     color: #fff;
 }
 .project__img{
