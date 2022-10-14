@@ -846,7 +846,7 @@ img {
 .scrollup:hover{
     background-color: var(--first-color-alt);
 }
-.scroll__icon{
+.scrollup__icon{
     font-size: 1.5rem;
     color: #fff;
 }
