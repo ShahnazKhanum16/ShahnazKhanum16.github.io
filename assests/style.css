@@ -943,8 +943,8 @@ img {
         grid-template-columns: repeat(2 ,1fr);
     }
     .qualification__sections{
-        display: grid;
-        grid-template-columns: .6fr;
+        display: flex;
+        grid-template-columns:.6fr;
         justify-items: center;
     }
 }
@@ -995,7 +995,7 @@ img {
     }
     .home__content{
         padding-top: 5.5rem;
-        column-gap: ;
+        column-gap:2rem ;
     }
     .home__blob{
         width: 270px;
